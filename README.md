@@ -12,4 +12,4 @@ Deliver a vision detection system to detect the defect.
 Experiment objective is to collect the data to train deep learning model for online monitoring and auto-classification. 
 The data collection will use the webcam setup online. After PC-PLC connection complete, will design new path for robot to do automation.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown.](DBIS.jpg)
+
