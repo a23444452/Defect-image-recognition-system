@@ -33,15 +33,15 @@ The data collection will use the webcam setup online. After PC-PLC connection co
 * YOLO: 
 
 ### Training & validation & learning rate
-* Rescale: 1/255
+* Rescale: 1/255<br>
   – Image pixel value 0-255 => 0-1, reduce computing<br>
 * Target size: training and prediction image size<br>
   – Need to be equal length and width (SPP NET)<br>
   – Found 128*128 most suitable for inspection image<br>
   – Affect performance (larger image take longer time to predict)<br>
-* Batch size:
+* Batch size:<br>
   – Neuro network playground
-* Class mode:
+* Class mode:<br>
   – Binary & categorical
 
 
