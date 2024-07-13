@@ -15,7 +15,7 @@ The data collection will use the webcam setup online. After PC-PLC connection co
 ### Neuro-network selection and evaluation
 * Tensorflow model
 * YOLOV5
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown.](model selection.jpg)
 
 ### Training pipelines
 * Folders
