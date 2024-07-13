@@ -1,5 +1,5 @@
 # Defect-image-recognition-system
-Deliver a vision detection system to detect the defect, and communicate with Robot by MC protocol(MELSEC Communication Protocol) for auto-remove function.
+Deliver a vision detection system to detect the defect, and handshake with PLC by MC protocol to control the robot for auto-remove function.
 
 ## The development consists four different stages
 * Phase 1. Web camera setup: adding one additional camera to observe the defect
