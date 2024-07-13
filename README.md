@@ -34,7 +34,7 @@ The data collection will use the webcam setup online. After PC-PLC connection co
 
 ### Training & validation & learning rate
 * Rescale: 1/255
-  – Image pixel value 0~255, 0~1, reduce computing
+  – Image pixel value 0~255 => 0~1, reduce computing<br>
 * Target size: training and prediction image size<br>
   – Need to be equal length and width (SPP NET)<br>
   – Found 128*128 most suitable for inspection image<br>
